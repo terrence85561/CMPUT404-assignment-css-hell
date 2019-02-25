@@ -1,0 +1,45 @@
+html {
+    background-image: url("asset/oldPaper.jpg");
+    background-size: contain;
+    
+}
+
+body{
+    margin-left:5%;
+    margin-right:5%;
+}
+pre{
+    text-align: center;
+    text-shadow: #C0C0C0;
+}
+
+p{
+    font-family: "Times New Roman",Times,serif;
+    font-style: italic;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    text-shadow: 5px 5px #C0C0C0;
+    text-align: center;
+}
+
+a:hover{
+    background-color: grey;
+}
+
+img{
+    
+    width:auto;
+    height:auto;
+    max-width:50%;
+    max-height:50%;
+    opacity: 1;
+}
+img:hover{
+    opacity: 0.3;
+}
+blockquote p{
+    text-align: center;
+}
+
+
